@@ -4,7 +4,7 @@ This is my first project on GitHub so it will appear a little rough until I get 
 
 This is my build of a Mini Mega2560 board. It uses the Mega2560 cpu with a CP2104 USB interface. The reason that I made this board was I wanted a more ports and memory for Arduino projects and I wanted a Mega2560 that could be used with a breadboard.
 
-![alt text](https://github.com/Sd4Projects/MiniMega2560/blob/master/MiniMega2560Board.png "MiniMega2560 Board")
+![alt text](https://github.com/Sd4Projects/MiniMega2560/blob/master/MiniMega2560Board.jpeg "MiniMega2560 Board")
 
 The board uses an Atmel mega2560 CPU that can run Arduino (with the correct bootloader installed).
 The board can be built as a 3.3 volt 8 MHz or a 5 volt 16 MHz system.
