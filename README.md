@@ -25,6 +25,7 @@ Settings to enable TX RX Toggle Leds on CP2104 with Simplicity Studio.
 First time run error with Simplicity Studio on my iMac.
 
 ![alt text](https://github.com/Sd4Projects/MiniMega2560/blob/master/Simplicity_ERROR2.png "Simplicity Error")
+
 This error happened the first time I tried to read the settings on the cp2104 chip on my iMac.
 I changed directory to cp210xcfg program and found it was missing execute permission. I added execute permission and restarted Simplicity, all then worked OK.
 
