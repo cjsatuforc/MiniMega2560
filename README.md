@@ -12,4 +12,12 @@ You can use the Arduino Mega2560 bootloader for the 5 volt 16 MHz build, the 3.3
 
 The board can be found at OSH Park. https://oshpark.com/shared_projects/cue1DDEi with project name MiniMega2560.
 
+Settings to enable TX RX Toggle Leds on CP2104.
+
+![alt text](https://github.com/Sd4Projects/MiniMega2560/blob/master/cp2104_enable_leds.png "CP2104 LEDs")
+
+Arduino MiniMega2560 3.3 volt/8 MHz Board/CPU settings. I only needed to change the clock settings to External 8 MHz.
+
+![alt text](https://github.com/Sd4Projects/MiniMega2560/blob/master/MegaCore_Settings.png "MegaCore Settings")
+
 I will be adding more build info soon...
