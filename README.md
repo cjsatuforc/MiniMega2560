@@ -18,7 +18,7 @@ Arduino MiniMega2560 3.3 volt/8 MHz Board/CPU settings. I only needed to change 
 
 Note: You can use a 5 volt Arduino UNO to burn bootloader for the 3.3 volt mega2560 system board.
 
-Settings to enable TX RX Toggle Leds on CP2104.
+Settings to enable TX RX Toggle Leds on CP2104 with Simplicity Studio.
 
 ![alt text](https://github.com/Sd4Projects/MiniMega2560/blob/master/cp2104_enable_leds.png "CP2104 LEDs")
 
