@@ -20,4 +20,10 @@ Settings to enable TX RX Toggle Leds on CP2104.
 
 ![alt text](https://github.com/Sd4Projects/MiniMega2560/blob/master/cp2104_enable_leds.png "CP2104 LEDs")
 
-I will be adding more build info soon...
+First time run error with Simplicity Studio on my iMac.
+
+![alt text](https://github.com/Sd4Projects/MiniMega2560/blob/master/Simplicity_ERROR.png "Simplicity Error")
+This error happened the first time I tried to read the settings on the cp2104 chip on my iMac.
+I changed directory to cp210xcfg program and found it was missing execute permission. I added execute permission and restarted Simplicity, all then worked OK.
+
+I always read the cp2104 settings first, then change the flags for TX RX toggle, then program the cp2104.
