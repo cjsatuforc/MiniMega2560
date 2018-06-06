@@ -13,6 +13,12 @@ You can use the Arduino Mega2560 bootloader for the 5 volt 16 MHz build, the 3.3
 
 The board can be found at OSH Park. https://oshpark.com/shared_projects/cue1DDEi with project name MiniMega2560.
 
+Schematic file:
+
+Board file:
+
+BOM file:
+
 Arduino MiniMega2560 3.3 volt/8 MHz Board/CPU settings. I only needed to change the clock settings to 8 MHz external.
 
 ![alt text](https://github.com/Sd4Projects/MiniMega2560/blob/master/MegaCore_Settings.png "MegaCore Settings")
