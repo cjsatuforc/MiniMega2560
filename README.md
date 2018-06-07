@@ -27,6 +27,8 @@ Note: You can use a 5 volt Arduino UNO to burn bootloader for the 3.3 volt mega2
 
 Settings to enable TX RX Toggle Leds on CP2104 with Simplicity Studio.
 
+https://www.silabs.com/products/development-tools/software/simplicity-studio
+
 ![alt text](https://github.com/Sd4Projects/MiniMega2560/blob/master/cp2104_enable_leds.png "CP2104 LEDs")
 
 First time run error with Simplicity Studio on my iMac.
@@ -37,3 +39,5 @@ This error happened the first time I tried to read the settings on the cp2104 ch
 I changed directory to cp210xcfg program and found it was missing execute permission. I added execute permission and restarted Simplicity, all then worked OK.
 
 I always read the cp2104 settings first, then change the flags for TX RX toggle, then program the cp2104.
+
+https://www.silabs.com/documents/public/data-sheets/cp2104.pdf
