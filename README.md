@@ -9,7 +9,8 @@ Left board is 5 Volts version, right board is 3.3 Volts version.
 
 The board uses an Atmel mega2560 CPU that can run Arduino (with the correct bootloader installed).
 The board can be built as a 3.3 volt 8 MHz or a 5 volt 16 MHz system.
-You can use the Arduino Mega2560 bootloader for the 5 volt 16 MHz build, the 3.3 volt 8 MHz system needs to have the fuse set for a External 8 MHz clock, I used MegaCore for that which can be found here on GitHub. It was very easy for me to use.
+You can use the Arduino Mega2560 bootloader for the 5 volt 16 MHz build, the 3.3 volt 8 MHz system needs to have the fuse set for a External 8 MHz clock, I used MegaCore for that which can be found here on
+GitHub https://github.com/MCUdude/MegaCore It was very easy for me to use.
 
 The board can be found at OSH Park. https://oshpark.com/shared_projects/cue1DDEi with project name MiniMega2560.
 
