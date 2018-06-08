@@ -47,3 +47,7 @@ https://www.silabs.com/documents/public/data-sheets/cp2104.pdf
 Mounting/Inserting the MiniMega2560 cpu into a breadboard is a little different. The pin rows are 1.100 inches apart. To mount the board I do it like the picture below shows.
 
 ![alt text](https://github.com/Sd4Projects/MiniMega2560/blob/master/MiniMega2560_BreadBoardMnt.jpg "MegaCore Breadboard")
+
+This is my bootloader jig I use to install the Arduino boot code. It works for both the 3.3 volt and 5 volt systems. There are many different ways to wire up for burning the bootloader, I just got tired doing the wire up for each board. If I have time later I will post how to make this unit.
+
+![alt text](https://github.com/Sd4Projects/MiniMega2560/blob/master/BootBurnerJig.jpg "Boot burner jig")
