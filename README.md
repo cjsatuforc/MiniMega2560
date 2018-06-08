@@ -4,7 +4,7 @@ This is my first project on GitHub so it will appear a little rough until I get 
 
 This is my build of a MiniMega2560 board. It uses the Mega2560 cpu with a CP2104 USB interface. The reason that I made this board was I wanted a more ports and memory for Arduino projects and I wanted a 3.3 volt Mega2560 that could be used with a breadboard.
 
-The board can be found at OSH Park. https://oshpark.com/shared_projects/cue1DDEi with project name MiniMega2560.
+The bare board can be found at OSH Park. https://oshpark.com/shared_projects/cue1DDEi with project name MiniMega2560v10.1.
 
 Schematic file: MiniMega2560v10.1sc.pdf
 
@@ -43,3 +43,7 @@ I changed directory to cp210xcfg program and found it was missing execute permis
 I always read the cp2104 settings first, then change the flags for TX RX toggle, then program the cp2104.
 
 https://www.silabs.com/documents/public/data-sheets/cp2104.pdf
+
+Mounting/Inserting the MiniMega2560 cpu into a breadboard is a little different. The pin rows are 1.100 inches apart. To mount the board I do it like the picture below shows.
+
+![alt text](https://github.com/Sd4Projects/MiniMega2560/blob/master/MiniMega2560_BreadBoardMnt.jpg "MegaCore Breadboard")
