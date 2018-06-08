@@ -44,6 +44,8 @@ I always read the cp2104 settings first, then change the flags for TX RX toggle,
 
 https://www.silabs.com/documents/public/data-sheets/cp2104.pdf
 
+##########  Note: I have posted several other boards to work with this Arduino project.  ##########
+
 Mounting/Inserting the MiniMega2560 cpu into a breadboard is a little different. The pin rows are 1.100 inches apart. To mount the board I do it like the picture below shows.
 
 ![alt text](https://github.com/Sd4Projects/MiniMega2560/blob/master/MiniMega2560_BreadBoardMnt.jpg "MegaCore Breadboard")
