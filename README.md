@@ -2,6 +2,15 @@
 
 This is my first project on GitHub so it will appear a little rough until I get up to speed.
 
+The project now has several board for the MiniMega2560 board the can run Arduino.
+1. A network card using the W5500 chip.
+2. A 3.3 volt PoE module for the network card.
+3. A Adafruit feather adapter board.
+4. A prototype board
+5. A WiFi board.
+
+I am designing a GRBL CNC board at this time so I can make solder past stencils. I will post that board also when done.
+
 This is my build of a MiniMega2560 board. It uses the Mega2560 cpu with a CP2104 USB interface. The reason that I made this board was I wanted a more ports and memory for Arduino projects and I wanted a 3.3 volt Mega2560 that could be used with a breadboard.
 
 The bare board can be found at OSH Park. https://oshpark.com/shared_projects/cue1DDEi with project name MiniMega2560v10.1.
