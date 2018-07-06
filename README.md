@@ -7,7 +7,7 @@ The project now has several board for the MiniMega2560 board the can run Arduino
 2. A 3.3 volt PoE module for the network card.
 3. A Adafruit feather adapter board.
 4. A prototype board
-5. A WiFi board.
+5. A WiFi board. The MiniMega2560v01_WiFi now has code for testing NetCard to WiFi Card via serial link.
 
 I am designing a GRBL CNC board at this time so I can make solder past stencils. I will post that board also when done.
 
