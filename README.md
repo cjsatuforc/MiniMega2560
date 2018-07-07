@@ -64,6 +64,6 @@ Why the 6 pins at the back end of the board? These pins do not align with breadb
 ![alt text](https://github.com/Sd4Projects/MiniMega2560/blob/master/BackPins1.jpg "MegaCore 6 pins")
 ![alt text](https://github.com/Sd4Projects/MiniMega2560/blob/master/BackPins2.jpg "MegaCore 6 pins")
 
-This is my bootloader jig I use to install the Arduino boot code. It works for both the 3.3 volt and 5 volt systems. There are many different ways to wire up for burning the bootloader, I just got tired doing the wire up for each board. If I have time later I will post how to make this unit.
+This is my bootloader fixture I use to install the Arduino boot code. It works for both the 3.3 volt and 5 volt systems. There are many different ways to wire up for burning the bootloader, I just got tired doing the wire up for each board. If I have time later I will post how to make this unit.
 
 ![alt text](https://github.com/Sd4Projects/MiniMega2560/blob/master/BootBurnerJig.jpg "Boot burner jig")
