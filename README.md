@@ -9,6 +9,8 @@ The project now has several board for the MiniMega2560 board the can run Arduino
 4. A prototype board
 5. A WiFi board. The MiniMega2560v01_WiFi now has code for testing NetCard to WiFi Card via serial link.
 
+The WiKi has info on how I test my boards.
+
 I am designing a GRBL CNC board at this time so I can make solder past stencils. I will post that board also when done.
 
 This is my build of a MiniMega2560 board. It uses the Mega2560 cpu with a CP2104 USB interface. The reason that I made this board was I wanted a more ports and memory for Arduino projects and I wanted a 3.3 volt Mega2560 that could be used with a breadboard.
