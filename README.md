@@ -1,6 +1,6 @@
 # MiniMega2560 Project
 
-16 Sept 2018 - I hope to have an updated board soon ~Oct 2018.
+29 Sept 2018 - update in progress for new board design
 
 This is my build of a MiniMega2560 board. It uses the Mega2560 cpu with a CP2104 USB interface. The reason that I made this board was I wanted a more ports and memory for Arduino projects and I wanted a 3.3 volt Mega2560 that could be used with a breadboard.
 
