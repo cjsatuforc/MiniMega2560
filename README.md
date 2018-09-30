@@ -16,7 +16,7 @@ The WiKi has info on how I test my boards.
 
 I am designing a GRBL CNC board at this time so I can make solder past stencils. I will post that board also when done.
 
-OLD  The bare board can be found at OSH Park. https://oshpark.com/shared_projects/cue1DDEi with project name MiniMega2560v10.1.
+OLD  The bare board can be found at OSH Park. https://oshpark.com/shared_projects/yTyv53VL with project name MiniMega2560v10_2e.
 
 Schematic file: MiniMega2560v10_2e.SC.pdf
 
