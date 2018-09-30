@@ -16,13 +16,13 @@ The WiKi has info on how I test my boards.
 
 I am designing a GRBL CNC board at this time so I can make solder past stencils. I will post that board also when done.
 
-The bare board can be found at OSH Park. https://oshpark.com/shared_projects/cue1DDEi with project name MiniMega2560v10.1.
+OLD  The bare board can be found at OSH Park. https://oshpark.com/shared_projects/cue1DDEi with project name MiniMega2560v10.1.
 
-Schematic file: MiniMega2560v10.1sc.pdf
+Schematic file: MiniMega2560v10_2e.SC.pdf
 
-Board file: MiniMega2560v10.1bd.pdf
+Board file: MiniMega2560v10_2e_BD.pdf
 
-BOM file: MiniMega2560 BOM.pdf
+BOM file: MiniMega2560v10_2e.BOM.pdf
 
 Left board is 5 Volts version, right board is 3.3 Volts version.
 ![alt text](https://github.com/Sd4Projects/MiniMega2560/blob/master/MiniMega2560both.png "MiniMega2560 Board")
