@@ -1,6 +1,6 @@
 # MiniMega2560 Project
 
-29 Sept 2018 - Updated info for new version of board can now be configed to use sleep mode using just battery (no voltage reg for sleeping). I will add more info on this board as I have time.
+29 Sept 2018 - Updated info for new version of board that can now be configed to use sleep mode using battery (no voltage reg for sleeping). I will add more info on this board as I have time.
 
 This is my build of a MiniMega2560 board. It uses the Mega2560 cpu with a CP2104 USB interface. The reason that I made this board was I wanted a more ports and memory for Arduino projects and I wanted a 3.3 volt Mega2560 that could be used with a breadboard.
 
